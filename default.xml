@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="https://github.com/CSE-Sourav"
+           revision="main" />
+
+  <default remote="github" revision="main"/>
+
+  <!-- Add repositories here -->
+  <project path="repo1" name="repo1" />
+  <project path="repo2" name="repo2" />
+  <!-- Add more repositories as needed -->
+</manifest>
