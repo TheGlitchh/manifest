@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="github"
-           fetch="git@github.com:SerpGang"
+           fetch="git@github.com:isouravgope"
            revision="main" />
 
   <default remote="github" revision="main"/>
 
   <!-- Add repositories here -->
-  <project path="chess_game_cpp" name="chess_game_cpp" />
+  <project path="dotfiles" name="dotfiles" />
+  <project path="isouravgope.github.io" name="isouravgope.github.io" />
+  <project path="my_archlinux_setup" name="my_archlinux_setup" />
+  <project path="Codes" name="Codes" />
+  <project path="Resume" name="Resume" />
   <!--<project path="DiscreteMathematics" name="DiscreteMathematics" /> -->
   <!-- Add more repositories as needed -->
 </manifest>
