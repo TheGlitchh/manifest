@@ -7,7 +7,7 @@
   <default remote="github" revision="master"/>
 
   <!-- Add repositories here -->
-  <project path="dotfiles" name="dotfiles" />
+  <project path="dotfiles" name="dotfiles" revision="i3wm-gruvbox" />
   <project path="isouravgope.github.io" name="isouravgope.github.io" />
   <project path="my_archlinux_setup" name="my_archlinux_setup" />
   <project path="Codes" name="Codes" />
