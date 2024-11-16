@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="github"
-           fetch="git@github.com:CSE-Sourav"
+           fetch="git@github.com:SerpGang"
            revision="main" />
 
   <default remote="github" revision="main"/>
 
   <!-- Add repositories here -->
-  <project path="GeneralAptitude" name="GeneralAptitude" />
-  <project path="SoftwareEngineering" name="SoftwareEngineering" />
-  <project path="ComputerNetworks" name="ComputerNetworks" />
-  <project path="DatabaseSystems" name="DatabaseSystems" />
-  <project path="OperatingSystems" name="OperatingSystems" />
-  <project path="ProgrammingLanguagesAndParadigms" name="ProgrammingLanguagesAndParadigms" />
-  <project path="ComputerOrganizationAndArchitecture" name="ComputerOrganizationAndArchitecture" />
-  <project path="TheoryofComputation" name="TheoryofComputation" />
-  <project path="Algorithms" name="Algorithms" />
-  <project path="DataStructures" name="DataStructures" />
-  <project path="DiscreteMathematics" name="DiscreteMathematics" />
+  <project path="chess_game_cpp" name="chess_game_cpp" />
+  <!--<project path="DiscreteMathematics" name="DiscreteMathematics" /> -->
   <!-- Add more repositories as needed -->
 </manifest>
 
