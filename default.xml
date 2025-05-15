@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="github"
-           fetch="git@github.com:isouravgope"
+           fetch="git@github.com:theglitchh"
            revision="master" />
 
   <default remote="github" revision="master"/>
 
-  <!-- Add repositories here -->
   <project path="dotfiles" name="dotfiles" revision="i3wm-gruvbox" />
-  <project path="isouravgope.github.io" name="isouravgope.github.io" />
+  <project path="theglitchh.github.io" name="theglitchh.github.io" />
   <project path="my_archlinux_setup" name="my_archlinux_setup" />
   <project path="Codes" name="Codes" />
   <project path="Resume" name="Resume" />
-  <!--<project path="DiscreteMathematics" name="DiscreteMathematics" /> -->
-  <!-- Add more repositories as needed -->
 </manifest>
 
